@@ -1,0 +1,21 @@
+p {
+    color: whitesmoke;
+    font-family: sans-serif;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-justify: inter-word;
+}
+
+ul {
+    color: whitesmoke;
+    font-family: sans-serif;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-justify: inter-word;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: sans-serif;
+    text-align: center;
+}
